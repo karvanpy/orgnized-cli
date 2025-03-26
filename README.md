@@ -1,8 +1,8 @@
-# Organized CLI
+# orgnized-cli
 
-"A command-line tool to automatically organize files in a directory by their types."
+A command-line tool to automatically organize files in a directory by their types.
 
-![Demo Screenshot](demo.png) *(optional: add actual screenshot later)*
+[![asciicast](https://asciinema.org/a/rrkbv0UlX9uUSw9YX0K7SJ2AT.svg)](https://asciinema.org/a/rrkbv0UlX9uUSw9YX0K7SJ2AT)
 
 ## Features
 
